@@ -4,7 +4,7 @@
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-valdiviezo-pe%C3%B1a-5693a9202/)
   [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/joseluis-max/)
-</hr>
+
   
 - 👨🖥️ Currently, I am a student full-stack software Engineer at Holberton School.
 - :mailbox: How to reach me: luisj.valdiviezo20@gmail.com
