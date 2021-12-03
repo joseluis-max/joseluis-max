@@ -5,11 +5,10 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-valdiviezo-pe%C3%B1a-5693a9202/)
   [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/joseluis-max/)
 
-  
 - 👨🖥️ Currently, I am a student full-stack software Engineer at Holberton School.
 - :mailbox: How to reach me: luisj.valdiviezo20@gmail.com
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 # Languages, skills and tools 🧰
 
@@ -33,4 +32,8 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+# Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=joseluis-max)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-max)
+<!-- ![Heroku](https://github-readme-streak-stats.herokuapp.com/?user={joseluis-max}) -->
