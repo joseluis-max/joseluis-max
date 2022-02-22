@@ -37,5 +37,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseluis-max)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-max)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joseluis-max)](https://git.io/streak-stats)
-
-<!-- ![Heroku](https://github-readme-streak-stats.herokuapp.com/?user={joseluis-max}) -->
