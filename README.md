@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: StarUps.
 - 🤔 I’m looking for help with: Java.
 - 💬 Ask me about: JavaScript.
-- 📫 How to reach me: luisj.valdiviezo20@gmail.com
 - 😄 Pronouns: He, Him.
 
 # Languages, skills and tools 🧰
