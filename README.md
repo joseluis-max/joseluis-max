@@ -5,19 +5,18 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-valdiviezo-pe%C3%B1a-5693a9202/)
   [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/joseluis-max/)
 
-- 👨🖥️ Currently, I am a student Full-Stack Software Engineer at Holberton School.
+- 👨🖥️ I am a Stoic passionate about software development, always motivated to keep pushing my limits, results-oriented and with excellent interpersonal       and technical communication skills, with upper intermediate English (B2). 
 - :mailbox: How to reach me: luisj.valdiviezo20@gmail.com
 
-<!-- Here are some ideas to get you started:
+Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently working on: My own code editor.
+- 🌱 I’m currently learning: Java and Software Architecture.
+- 👯 I’m looking to collaborate on: StarUps.
+- 🤔 I’m looking for help with: Java.
+- 💬 Ask me about: JavaScript.
+- 📫 How to reach me: luisj.valdiviezo20@gmail.com
+- 😄 Pronouns: He, Him.
 
 # Languages, skills and tools 🧰
 
