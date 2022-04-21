@@ -1,4 +1,4 @@
-![Banner](./JLVP_1.svg)
+<!-- ![Banner](./JLVP_1.svg) -->
 
 # About me !👋
 
