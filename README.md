@@ -5,7 +5,8 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-valdiviezo-pe%C3%B1a-5693a9202/)
   [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/joseluis-max/)
 
-- 👨🖥️ I am a Stoic passionate about software development, always motivated to keep pushing my limits, results-oriented and with excellent interpersonal       and technical communication skills, with upper intermediate English (B2). 
+- 👨🖥️ I am a Software developer with experience in Python, C, and JavaScript. I have worked with relational databases like SQL, in addition to frameworks, and libraries like Flask, and ReactJs. Also, on the server side, I have worked with Ngnix. I am a disciplined person, willing to take on challenges, and with great adaptability to change. I love sharing my knowledge and helping others reach their full potential.
+ 
 - :mailbox: How to reach me: luisj.valdiviezo20@gmail.com
 
 Here are some ideas to get you started:
