@@ -3,12 +3,12 @@
 # About me !👋
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-valdiviezo-pe%C3%B1a-5693a9202/)
-  [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/joseluis-max/)
+<!--   [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/joseluis-max/) -->
 
 - 👨🖥️ I am a Software developer with experience in Python, C, and JavaScript. I have worked with relational databases like SQL, in addition to frameworks, and libraries like Flask, and ReactJs. Also, on the server side, I have worked with Ngnix. I am a disciplined person, willing to take on challenges, and with great adaptability to change. I love sharing my knowledge and helping others reach their full potential.
  
 - :mailbox: How to reach me: luisj.valdiviezo20@gmail.com
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: My own code editor.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: StarUps.
 - 🤔 I’m looking for help with: Java.
 - 💬 Ask me about: JavaScript.
-- 😄 Pronouns: He, Him.
+- 😄 Pronouns: He, Him. -->
 
 # Languages, skills and tools 🧰
 
