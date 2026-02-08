@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="banner" src="https://raw.githubusercontent.com/joseluis-max/joseluis-max/main/assets/banner.svg" width="100%" style="max-height:220px;object-fit:cover" />
-</p>
-
 <h1 align="center">Hi, I'm José Luis 👋</h1>
 <p align="center">
   Software Developer focused on clean architecture, tooling, and building reliable systems.
